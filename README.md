@@ -1,2 +1,2 @@
 # hello-world
-Very First Beginninh
+Very First Beginning
